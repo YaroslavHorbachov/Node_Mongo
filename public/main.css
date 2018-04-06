@@ -1,0 +1,59 @@
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("/images/grunge-leather-background-texture-hd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*height: 100%;*/
+}
+
+div.menu, div.button, form {
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    color: black;
+    font-size: xx-large;
+}
+
+form input {
+    height: 30px;
+}
+
+button, form input[type='submit'] {
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+
+a {
+    text-align: center;
+    display: block;
+    border: 5px solid black;
+    text-decoration: brown underline;
+    color: black;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: darkviolet;
+}
+
+li {
+    color: black;
+    font-family: 'Roboto', serif;
+
+}
+
+.error {
+    font-size: xx-large;
+    color: red;
+}
+
+form input[type='submit'] {
+    width: 200px;
+    height: 50px;
+}
