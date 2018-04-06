@@ -1,4 +1,4 @@
-# Node_Monogo
+# Node_Mongo
 Need MongoDB and Mongoose;  
 -> Run mongod.exe, and stay still on server + and optional use other path to choise db directory  
 -> Run in parralel monitor mongo.exe and i this stage , yopu can modify and interact with MongoDB intefaces  
